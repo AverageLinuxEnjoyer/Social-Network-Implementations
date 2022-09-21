@@ -1,0 +1,3 @@
+/home/nullptr/Documents/Learning/Programming/C++/DSA/alte_teme/anastasia 1 6/build/CMakeFiles/anastasia_1_6.dir
+/home/nullptr/Documents/Learning/Programming/C++/DSA/alte_teme/anastasia 1 6/build/CMakeFiles/edit_cache.dir
+/home/nullptr/Documents/Learning/Programming/C++/DSA/alte_teme/anastasia 1 6/build/CMakeFiles/rebuild_cache.dir
