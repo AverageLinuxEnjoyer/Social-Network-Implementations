@@ -1,5 +1,4 @@
-# Social-Network-Implementations
-Social Network backend wannabe, meant as an exercise for learning OOP and Data Structures. Made in 19 different ways.
+# Cerinta
 
 Funcționalități de bază (cerințe funcționale):
 - Gestiunea utilizatorilor: operații CRUD (pt  a avansa mai rapid propun să citim acești utilizatori, inițial dintr-un fisier csv. 
